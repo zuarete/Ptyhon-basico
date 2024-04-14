@@ -1,0 +1,6 @@
+nome=input("Informe o nome : ")
+dia=input("Informe o dia : ")
+mes=input("Informe o mes : ")
+valor=input("Informe o valor : ")
+print("Olá",nome)
+print("A sua fatura com vencimento em",dia,"de",mes,"no valor de R$",valor,"está fechada.")
